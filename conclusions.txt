@@ -1,0 +1,3 @@
+Kernel PCA: Mostra melhor desempenho na captura de padrões não lineares, especialmente quando usado com um kernel Gaussiano (RBF). Isso é evidenciado pela melhor separação das diferentes camadas de z, pois o kernel Gaussiano ajusta-se às variações locais dos dados, capturando relações complexas que o PCA tradicional não consegue.
+
+PCA Tradicional: É mais simples e rápido, mas, por trabalhar apenas com relações lineares, pode não capturar tão bem as complexidades dos dados em um espaço dimensional reduzido.
